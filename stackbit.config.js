@@ -118,7 +118,8 @@ export default {
         CardsSection: {
             fields: [localeFieldOverride]
         },
-
+        ImageSection: {
+            fields: [localeFieldOverride]
         },
         MarkdownSection: {
         },
