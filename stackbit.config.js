@@ -119,7 +119,6 @@ export default {
             fields: [localeFieldOverride]
         },
         ImageSection: {
-            fields: [localeFieldOverride]
         },
         MarkdownSection: {
         },
