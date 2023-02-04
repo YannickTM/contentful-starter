@@ -119,10 +119,13 @@ export default {
             fields: [localeFieldOverride]
         },
         ImageSection: {
+            fields: [localeFieldOverride]
         },
         MarkdownSection: {
+            fields: [localeFieldOverride]
         },
         CtaSection: {
+            fields: [localeFieldOverride]
         }
     }
 };
