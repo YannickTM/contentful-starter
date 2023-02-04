@@ -111,21 +111,6 @@ export default {
             type: 'page',
             urlPath: '/{slug}',
             fields: [localeFieldOverride]
-        },
-        HeroBanner: {
-            fields: [localeFieldOverride]
-        },
-        CardsSection: {
-            fields: [localeFieldOverride]
-        },
-        ImageSection: {
-            fields: [localeFieldOverride]
-        },
-        MarkdownSection: {
-            fields: [localeFieldOverride]
-        },
-        CtaSection: {
-            fields: [localeFieldOverride]
         }
     }
 };
